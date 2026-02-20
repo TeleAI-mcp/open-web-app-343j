@@ -1,1 +1,3 @@
-# open-web-app-343j
+# Open Web App 343J
+
+A web application for modern development workflows.
